@@ -26,3 +26,5 @@ BYO Tweets and predict your Myers-Briggs Personality Type
 
 This notebook is a fork from [Multiclass and multi-output classification](https://www.kaggle.com/depture/multiclass-and-multi-output-classification), [RNN mbti predictor](https://www.kaggle.com/prnvk05/rnn-mbti-predictor/) and [MBTI - Study personality
 ](https://www.kaggle.com/laowingkin/mbti-study-personality).
+
+Please run and fork the notebook on [kaggle.com] (https://www.kaggle.com/stefanbergstein)
